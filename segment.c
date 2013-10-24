@@ -33,7 +33,7 @@ uint8_t temp_pattern;
 
 uint8_t MenuPage;
 uint8_t SubPage;
-uint8_t InStartUp = 1;
+uint8_t InStartUp = 0;
 
 uint8_t Display[20];
 
