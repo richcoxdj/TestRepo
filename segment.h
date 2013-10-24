@@ -9,7 +9,7 @@
 /******************************************************************************/
 
 // Debounce and auto repeat for keys
-#define KEYCOUNT      40              // Debounce counter to report a key press
+#define KEYCOUNT      50              // Debounce counter to report a key press
 #define KEYCOUNT_REP  KEYCOUNT+800   // Autorepeat
 
 #define SEG7_0  0
